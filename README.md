@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="left">Hi 👋, I'm Armaan</h1>
 
-<!--
-**Armaan61/Armaan61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="Left">
+  Full Stack Developer from Nepal 🇳🇵
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🎓 IT Student  
+- 🌱 Learning Full Stack Development  
+- 💻 Building personal projects  
+
+---
+
+### Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/armaan-agrawal-a69nb2004/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/nut_monke/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,html,css,js,nodejs,postgres,react,tailwind,ts" />
+</p>
